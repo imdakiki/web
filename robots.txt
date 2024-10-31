@@ -8,6 +8,7 @@ Disallow: /private/
 Disallow: /tmp/
 Disallow: /config/
 Disallow: /apps
+Disallow: /divine
 
 # Allow crawlers to access everything else
 Allow: /
