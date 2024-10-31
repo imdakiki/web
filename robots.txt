@@ -7,6 +7,7 @@ Disallow: /login/
 Disallow: /private/
 Disallow: /tmp/
 Disallow: /config/
+Disallow: /apps
 
 # Allow crawlers to access everything else
 Allow: /
